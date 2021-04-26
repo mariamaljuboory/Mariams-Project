@@ -1,0 +1,26 @@
+body {
+    background-color: #e6ccb3;
+    color: #339966;
+    font-family: 'IBM Plex Mono', monospace;
+}
+
+h1 {
+    text-align: center;
+    color: white;
+    font-size: 40px;
+    font-family: 'Artifika', serif;
+}
+
+h2 {
+    color: #ff6666;
+    font-family: 'Cairo', sans-serif;
+}
+
+img {
+    height: 400px;
+}
+
+div {
+    text-align: center;
+}
+a:visited { color: blue; background-color: transparent; text-decoration: none; } a:hover { color: white; background-color: transparent; text-decoration: underline; }
